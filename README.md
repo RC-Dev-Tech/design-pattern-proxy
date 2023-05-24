@@ -45,7 +45,7 @@
 ---
 
 ## 實作範例:
-- [Example](https://github.com/RC-Dev-Tech/design-pattern-proxy/blob/main/C%2B%2B/main.cpp) - Prototype Pattern (C++) 
+- [Example](https://github.com/RC-Dev-Tech/design-pattern-proxy/blob/main/C%2B%2B/main.cpp) - Proxy Pattern (C++) 
 
 ---
 
